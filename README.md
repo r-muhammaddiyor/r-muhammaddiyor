@@ -39,13 +39,3 @@ I build responsive, clean, and modern web interfaces using React.js, Next.js, Ja
 </p>
 
 ---
-
-### 📊 GitHub Stats
-
-<p align="left">
-  <img src="https://github-readme-stats.vercel.app/api?username=r-muhammaddiyor&show_icons=true&theme=tokyonight" alt="GitHub Stats" />
-</p>
-
-<p align="left">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=r-muhammaddiyor&layout=compact&theme=tokyonight" alt="Top Languages" />
-</p>
